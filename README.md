@@ -7,4 +7,7 @@
 
 2. No, you wouldnt need to use end to end tests just for testing a function, you would use a unit test for that
 
-3. 
+3. no because it would be too much. Unit test only checks if something is working, not if it is working with other things. Message feature seems like it would not only require a lot of unit tests, but also end to end tests
+
+
+4. yes, to check the max length of a message, its something small and easy to test so a unit test would be fine
